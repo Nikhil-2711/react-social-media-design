@@ -1,0 +1,55 @@
+.friendlist-container{
+     background-color: #6a0dad;
+  border-radius: 12px;
+  padding: 20px;
+  max-width: 100%;
+  margin: 20px auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', sans-serif;
+  min-height: 70vh;
+  backdrop-filter: blur(10px); /* This creates the glass blur */
+    -webkit-backdrop-filter: blur(10px); /* Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: transform 0.3s ease;
+
+}
+.friendlist-container:hover {
+    transform: scale(1.02);
+}
+
+.friendlist-header{
+    width: 100%;
+    height: 10vh;
+    background-color: #b591cf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.add-friend-btn{
+    width: 150px;
+    height: 40px;
+    background-color: #480095;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}   
+.add-friend-button:hover{
+    background-color: #6a0dad;
+}
+.friend-icon{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.friendlist-users{
+    margin-top: 35px;
+}
