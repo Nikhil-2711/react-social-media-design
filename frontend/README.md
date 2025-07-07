@@ -1,5 +1,3 @@
----
-
 ```markdown
 # VibeShare - Social Media React Application
 
