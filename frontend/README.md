@@ -7,7 +7,7 @@ It is built using **Create React App** and styled with **Bootstrap** for respons
 ## 🚀 Live Demo
 
 The application is deployed on **Vercel**.  
-👉 **Live URL:** [https://your-vercel-project-url.vercel.app](https://your-vercel-project-url.vercel.app)
+👉 **Live URL:** [https://react-social-media-design.vercel.app/](https://react-social-media-design.vercel.app/)
 
 > _(Replace the above link with your actual Vercel deployment URL)_
 
