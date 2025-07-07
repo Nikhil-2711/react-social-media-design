@@ -42,7 +42,7 @@ Optimizes the build for the best performance.
 
 ```
 
-vibeshare/
+frontend/
 ├── public/
 ├── src/
 │   ├── components/
